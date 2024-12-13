@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Medha375
-- 👀 I’m interested in front end and DSA algorithms
+- 👀 I’m interested in Machine Learning and DSA algorithms
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me smedha146@gmail.com
 

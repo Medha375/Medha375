@@ -1,5 +1,5 @@
 -  Hi, I’m @Medha375
--  I’m interested in BFullstack mainlt backend, syatem design, machine learning and DSA algorithms
+-  I’m interested in Fullstack mainly backend, system design, machine learning and DSA algorithms
 -  open for collabration on github
 -  I write technical blogs on Hashnode
 -  How to reach me smedha146@gmail.com
